@@ -28,7 +28,7 @@ body:
       placeholder: 'Concise description + steps to reproduce.'
     validations:
       required: true
-
+  - GitHub other branch (specify in description)
   - type: textarea
     attributes:
       label: Device and browser

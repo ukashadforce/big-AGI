@@ -11,7 +11,7 @@ name: Create and publish Docker images
 
 on:
   push:
-    branches:
+    branches::
       - v2-dev
       #- v1-stable  # Disabled as the v* tag is used for stable releases
     tags:
